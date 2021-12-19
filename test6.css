@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+}
+
+.object{
+    height: 100px;
+     width: 100px; 
+     border-radius:50%;
+     background-color:rgb(111, 141, 131);
+     transition: 0.10s;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+}
